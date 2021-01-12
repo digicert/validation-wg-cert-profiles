@@ -1,3 +1,15 @@
+---
+title: Validation WG TLS Profile
+subtitle: Version X.Y.Z
+author:
+  - CA/Browser Forum
+date: 19 October, 2020
+copyright: |
+  Copyright 2020 CA/Browser Forum
+
+  This work is licensed under the Creative Commons Attribution 4.0 International license.
+---
+
 ## 7.1 Certificate Profile
 
 
